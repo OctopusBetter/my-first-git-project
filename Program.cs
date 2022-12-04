@@ -11,7 +11,7 @@ namespace ConsoleApp1
         {
             Arrays();
         }
-
+        //create-from-console
         public static void Arrays()
         {
             Console.Write("N:");
